@@ -1,0 +1,23 @@
+.product-container {
+    width: 300px;
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin: 20px auto;
+    text-align: center;
+}
+.product-container img {
+    width: 100px;
+    height: auto;
+    margin-bottom: 15px;
+}
+.buy-btn {
+    margin-top: 15px;
+    padding: 10px 20px;
+    background-color: green;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+.buy-btn:hover {
+    background-color: darkgreen;
+}
